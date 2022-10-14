@@ -5,7 +5,7 @@
 - 📫 How to reach me?
 
   * Linkedin: [supto-purakayasto-a2bb71213](https://www.linkedin.com/in/supto-purakayasto-a2bb71213/)
-  * Twitter: [@CoderSupto](https://twitter.com/suptop369)
+  * Twitter: [@suptop369](https://twitter.com/suptop369)
   * Gmail: codersupto@gmail.com
   * Telegram: `+880 1740915311`
   * WhatsApp: `+880 1740915311`
