@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supto Purakayasto
-- 👀 I’m interested in Enterprise Reactive Microservice development
+- 👀 I’m interested in Enterprise Microservice development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me?
